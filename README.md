@@ -24,7 +24,7 @@ Month-wise Sales: Presents sales data on a monthly basis, offering a more detail
 
 Category-wise Sales: Illustrates the sales distribution across different product categories, enabling users to understand the contribution of each category to the overall sales performance.
 
-![image](https://github.com/AkshayPetkar023/Tableau-Projects/assets/102145773/19ef4771-45e5-4e71-9018-839adee68362)
+![image](https://github.com/AkshayPetkar023/Tableau-Projects/assets/102145773/55a514c8-626c-4c70-9d4d-999f6c21ddc7)
 
 
 # 2. Superstore Sales Dashboard
