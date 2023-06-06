@@ -26,7 +26,7 @@ Country-wise Sales: Analyzes sales data based on different countries. Users can 
 
 The slicer buttons integrated with each graph allow users to interactively filter the data based on specific years, categories, quarters, months, or countries. This functionality enhances the flexibility and granularity of data analysis, empowering users to make informed decisions based on specific criteria.
 
-![image](https://github.com/AkshayPetkar023/Tableau-Projects/assets/102145773/55a514c8-626c-4c70-9d4d-999f6c21ddc7)
+![image](https://github.com/AkshayPetkar023/Tableau-Projects/assets/102145773/2187f081-554c-4720-bc0b-2d7c1fd294cf)
 
 
 # 2. Superstore Sales Dashboard
