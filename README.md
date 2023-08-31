@@ -12,6 +12,8 @@ Total Profit: Indicates the total profit earned by Adventure Works.
 Total Production Cost: Represents the cumulative cost incurred in producing the goods sold by Adventure Works.
 
 Total Quantity: Showcases the total quantity of products sold by Adventure Works.
+
+
 Charts:
 
 Year-wise Sales: Visualizes the sales figures for each year, enabling users to observe the sales growth or decline over time. Each graph within the dashboard acts as a slicer, allowing users to filter the data by year.
